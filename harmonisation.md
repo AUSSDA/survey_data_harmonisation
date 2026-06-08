@@ -173,6 +173,7 @@ Watch the video to learn more:
 >
 >Click on the lightbulb to get some hints!
 
+<!-- data-randomize -->
 -[[X]] Ex-ante harmonisation refers to the process of aligning or standardising rules and regulations within a survey programme before they are implemented or come into effect. 
 -[[X]] Ex-post harmonisation is applied after data collection on the output data. 
 -[[ ]] We only speak of ex-post harmonisation when we are harmonising variables across different surveys. 
