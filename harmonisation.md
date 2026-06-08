@@ -20,13 +20,13 @@ We will give you some insights on data harmonisation strategies, explain how to 
 
 [Section 2](#8): Foundation of Survey Data Harmonisation 
 
-[Section 3](#12): Working with harmonised datasets 
+[Section 3](#13): Working with harmonised datasets 
 
-[Section 4](#15):  Assessing the quality of harmonised measures
+[Section 4](#26):  Assessing the quality of harmonised measures
 
-[Section 5](#20): Create your own dataset 
+[Section 5](#34): Create your own dataset 
 
-[Summary](#24)
+[Summary](#46)
 
 Cross-national survey research offers rich insights into social phenomena across diverse populations. However, differences in survey design, question wording, and response scales can make direct comparisons challenging. Ex-post data harmonisation enables you to leverage existing survey data more effectively, enrich your analyses by combining multiple data sources, and contribute to more robust, comparable research. This course will help you enrich your datasets and strengthen your secondary analyses. 
 
@@ -72,9 +72,8 @@ By the end of the course, you will be able to:
 This course comes with individual support in different formats. 
 
 1. Individual office hours: Two sessions, each with additional materials, input, and Q&A with the Infra4NextGen Harmonisation team: 
-* Session 1: 09.06.2026, 11:00 – 12:30 CEST Kick-off & Meet the Harmony Team (Harmony is a unique NLP-based tool to accelerate harmonisation processes.). [Register here →](https://cessda-eu.zoom.us/meeting/register/zT2oJJzIScaj0msbxLeR5A) 
-* Session 2: 29.09.2026, 11:00 – 12:30 CEST Evaluation of Test Equating & Linking Methods for Harmonisation. 
-* Register [here](https://infra4nextgen.com/i4ng-events/forthcoming-events/)
+* Session 1: 09.06.2026, 11:00 – 12:30 CEST Kick-off & Meet the Harmony Team (Harmony is a unique NLP-based tool to accelerate harmonisation processes). [→ Register here](https://cessda-eu.zoom.us/meeting/register/zT2oJJzIScaj0msbxLeR5A) 
+* Session 2: 29.09.2026, 11:00 – 12:30 CEST Evaluation of Test Equating & Linking Methods for Harmonisation. Talk by Dr Rabia Karatoprak Ersen [→ Register here](https://cessda-eu.zoom.us/webinar/register/WN_qfeb7_mDSgOufJWOGpwzag)
 2. Public Consultation Slots:  We offer three open Q&A sessions for questions and follow-ups.  Please send us an [email](mailto:harmonisation.i4ng@gesis.org) to receive the link.  
 * Tuesday, 30.06.2026, 11:00 – 11:30 CEST   
 * Wednesday, 28.10.2026, 11:00 – 11:30 CET    
@@ -174,7 +173,6 @@ Watch the video to learn more:
 >
 >Click on the lightbulb to get some hints!
 
-<!-- data-randomize -->
 -[[X]] Ex-ante harmonisation refers to the process of aligning or standardising rules and regulations within a survey programme before they are implemented or come into effect. 
 -[[X]] Ex-post harmonisation is applied after data collection on the output data. 
 -[[ ]] We only speak of ex-post harmonisation when we are harmonising variables across different surveys. 
@@ -389,7 +387,9 @@ This section will show you how to access and work with I4NG harmonised datasets 
 **Setting Up Your Environment**
 To access the datasets, you need a free GESIS account. Create on at the [GESIS log in page](https://login.gesis.org).  
 
-If you want to run the code locally, you need two free software programs:  Install [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) 
+If you want to run the code locally, you need two free software programs:  Install [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/).
+
+Installing rgesis package from GitHub may require development tools for compiling packages from source. RTools can be downloaded from [here](https://cran.r-project.org/bin/windows/Rtools/). 
 
 **New to R?** If you need further guidance, we suggest [R for Non-Programmers](https://r4np.com/) that also includes a detailed section on how to set up R and R studio.
 
@@ -441,7 +441,7 @@ Now, let us download your first dataset. Remember the ZA numbers from the datase
 
 ``` r
 # Download the SPSS version of the Equal dataset from GESIS 
-I4NG_equal_file <- gesis_data("ZA9072", select = "\\") 
+I4NG_equal_file <- gesis_data("ZA9072", select = "\\.sav") 
 
 # When you run gesis_data(), R will ask you to specify the purpose of your data
 # use: 
