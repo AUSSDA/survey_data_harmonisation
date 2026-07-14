@@ -71,8 +71,8 @@ By the end of the course, you will be able to:
 
 This course comes with individual support in different formats. 
 
-1. Individual office hour with additional materials, input, and Q&A with the Infra4NextGen Harmonisation team: 
-* 29.09.2026, 11:00 – 12:30 CEST Evaluation of Test Equating & Linking Methods for Harmonisation. Talk by Dr Rabia Karatoprak Ersen [→ Register here](https://cessda-eu.zoom.us/webinar/register/WN_qfeb7_mDSgOufJWOGpwzag)
+1. Office hour with additional materials, input, and Q&A with the Infra4NextGen Harmonisation team: 
+* Next session: 29.09.2026, 11:00 – 12:30 CEST Evaluation of Test Equating & Linking Methods for Harmonisation. Talk by Dr Rabia Karatoprak Ersen [→ Register here](https://cessda-eu.zoom.us/webinar/register/WN_qfeb7_mDSgOufJWOGpwzag)
 2. Public Consultation Slots:  We offer two open Q&A sessions for questions and follow-ups.  Please send us an [email](mailto:harmonisation.i4ng@gesis.org) to receive the link.  
 * Wednesday, 28.10.2026, 11:00 – 11:30 CET    
 * Tuesday, 01.12.2026, 11:00 – 11:30 CET   
@@ -138,7 +138,7 @@ The harmonised datasets are organized by the EU youth policy pillars. In total, 
 
 You can also access explicit documentation for each harmonisation process that was conducted as HTML documents directly from the [data page here](https://infra4nextgen.com/harmonisationgateway/data.html). In the following video, we explain how you can access, navigate, and analyse these datasets to support your research. 
 
-??[Working with harmonised datasets](https://www.youtube.com/watch?v=p23ZzXDMZtA "NextGen Harmonised Data Gateway | Step 3 – Working with harmonised datasets") 
+??[Working with harmonised datasets](https://youtu.be/p23ZzXDMZtA?si=srFQGpYY-D2EFZHf "NextGen Harmonised Data Gateway | Step 3 – Working with harmonised datasets") 
 
 
 <!-- style="background-color: #6EC7D9;"--> 
