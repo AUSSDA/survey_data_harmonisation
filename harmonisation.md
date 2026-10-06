@@ -983,7 +983,7 @@ Solution: Aggregation Error occurs when detailed data (e.g., specific educationa
 **Evaluation of test equating and linking methods for data harmonisation **
 
 Watch the recording of Dr. Rabia Karatoprak Ersen's specialised technical session on navigating the advanced statistical rigour required to minimise errors in the harmonisation process:
-??[Evaluation Presentation](https://youtu.be/da1rfXLTLC8“Evaluation of test equating and linking methods for data harmonisation”)
+??[Evaluation Presentation](https://www.youtube.com/watch?v=da1rfXLTLC8)“Evaluation of test equating and linking methods for data harmonisation”)
 
 Go to [Section 5](#34) to learn more about how to create your own dataset!
 
