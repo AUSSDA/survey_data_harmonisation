@@ -71,9 +71,7 @@ By the end of the course, you will be able to:
 
 This course comes with individual support in different formats. 
 
-1. Office hour with additional materials, input, and Q&A with the Infra4NextGen Harmonisation team: 
-* Next session: 29.09.2026, 11:00 – 12:30 CEST Evaluation of Test Equating & Linking Methods for Harmonisation. Talk by Dr Rabia Karatoprak Ersen [→ Register here](https://cessda-eu.zoom.us/webinar/register/WN_qfeb7_mDSgOufJWOGpwzag)
-2. Public Consultation Slots:  We offer two open Q&A sessions for questions and follow-ups.  Please send us an [email](mailto:harmonisation.i4ng@gesis.org) to receive the link.  
+Public Consultation Slots:  We offer two open Q&A sessions for questions and follow-ups.  Please send us an [email](mailto:harmonisation.i4ng@gesis.org) to receive the link.  
 * Wednesday, 28.10.2026, 11:00 – 11:30 CET    
 * Tuesday, 01.12.2026, 11:00 – 11:30 CET   
 
