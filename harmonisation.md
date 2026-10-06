@@ -73,8 +73,7 @@ This course comes with individual support in different formats.
 
 1. Individual office hours: Two sessions, each with additional materials, input, and Q&A with the Infra4NextGen Harmonisation team:
 * Session 1: 09.06.2026, Kick-off & Meet the Harmony Team (Harmony is a unique NLP-based tool to accelerate harmonisation processes). Recording is available in [Section 5.3](#44)!
-
-* Session 2: 29.09.2026, Evaluation of Test Equating & Linking Methods for Harmonisation. Recording available in [Section 4.3](#32)!
+* Session 2: 29.09.2026, Evaluation of Test Equating & Linking Methods for Harmonisation. Recording is available in [Section 4.3](#32)!
 2. Public Consultation Slots:  We offer two open Q&A sessions for questions and follow-ups.  Please send us an [email](mailto:harmonisation.i4ng@gesis.org) to receive the link.  
 * Wednesday, 28.10.2026, 11:00 – 11:30 CET    
 * Tuesday, 01.12.2026, 11:00 – 11:30 CET   
@@ -984,7 +983,7 @@ Solution: Aggregation Error occurs when detailed data (e.g., specific educationa
 **Evaluation of test equating and linking methods for data harmonisation **
 
 Watch the recording of Dr. Rabia Karatoprak Ersen's specialised technical session on navigating the advanced statistical rigour required to minimise errors in the harmonisation process:
-??(https://youtu.be/da1rfXLTLC8 “Evaluation of test equating and linking methods for data harmonisation”)
+??[Evaluation Presentation](https://youtu.be/da1rfXLTLC8 “Evaluation of test equating and linking methods for data harmonisation”)
 
 Go to [Section 5](#34) to learn more about how to create your own dataset!
 
