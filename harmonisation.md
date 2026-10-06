@@ -980,14 +980,16 @@ Solution: Aggregation Error occurs when detailed data (e.g., specific educationa
 >
 >Survey data harmonisation is always a trade-off between accuracy and coverage. All harmonisation steps should be carried out and documented with great care. What you should keep in mind during quality checks, though, is that the accepted level of data quality is closely related to the intended use of the target variable! If you want to make broad statements about as many country trends as possible, you can probably tolerate a coarser harmonisation than if you are interested in the differences in precise gradations.
 
+
+Go to [Section 5](#34) to learn more about how to create your own dataset!
+
 **Evaluation of test equating and linking methods for data harmonisation **
 
 Watch the recording of Dr. Rabia Karatoprak Ersen's specialised technical session on navigating the advanced statistical rigour required to minimise errors in the harmonisation process:
 
-??[Evaluation Presentation](https://www.youtube.com/watch?v=da1rfXLTLC8“Evaluation of test equating and linking methods for data harmonisation”)
+??[Evaluation Presentation](https://www.youtube.com/watch?v=da1rfXLTLC8)
 
 
-Go to [Section 5](#34) to learn more about how to create your own dataset!
 
 ## 4.4 Bibliography and further reading
 
